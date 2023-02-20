@@ -1,3 +1,12 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+        let products = [{name: 'Torta de chocolate', price: 1000}, {name: 'Torta de vainilla', price: 1500}, {name: 'Torta de fresa', price: 2000}];
+
+</script>
+
+<h1
+    class="text-4xl font-bold text-center text-blue-600"
+>
+   Pasteles Jonhy
+</h1>
+
 
