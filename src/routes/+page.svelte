@@ -29,7 +29,7 @@
 <h1
     class="text-4xl font-semibold text-center text-blue-600 p-16"
 >
-   Pasteles Jonhy
+   Pasteles Jonathan
 </h1>
 
 <div class="max-w-[1200px] mx-auto gap-12 flex flex-wrap justify-center">
