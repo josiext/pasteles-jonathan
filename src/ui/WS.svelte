@@ -4,11 +4,12 @@
 	height="32"
 	preserveAspectRatio="xMidYMid"
 	viewBox="0 0 256 258"
+	fill="inherit"
 	><defs
 		><linearGradient id="a" x1="50%" x2="50%" y1="100%" y2="0%"
-			><stop offset="0%" stop-color="#1FAF38" /><stop
+			><stop offset="0%" stop-color="#C32828" /><stop
 				offset="100%"
-				stop-color="#60D669"
+				stop-color="#C32828"
 			/></linearGradient
 		><linearGradient id="b" x1="50%" x2="50%" y1="100%" y2="0%"
 			><stop offset="0%" stop-color="#F9F9F9" /><stop

@@ -5,13 +5,13 @@
 
 			<ul class="flex gap-14 text-[#8C8C8C] font-semibold">
 				<li>
-					<a href="/" class="text-[#292929]">Inicio</a>
+					<a href="#home" class="text-[#292929]">Inicio</a>
 				</li>
 				<li>
-					<a href="/">Pasteles</a>
+					<a href="#catalog">Catalogo</a>
 				</li>
 				<li>
-					<a href="/">Contacto</a>
+					<a href="#contact">Contacto</a>
 				</li>
 			</ul>
 		</div>
@@ -22,8 +22,9 @@
 			Exisito sabor para<br />verdaderos<br /> conocedores
 		</h1>
 
-		<button
-			class="flex gap-1 justify-center items-center bg-[#C32828] text-slate-50 text-md rounded-[50px] p-4 w-[200px] mx-auto block shadow-md"
+		<a
+			class="flex gap-1 justify-center items-center bg-red-700 text-slate-50 text-md rounded-[50px] p-4 w-[200px] mx-auto block shadow-md hover:bg-red-800"
+			href="/#catalog"
 		>
 			<svg
 				stroke="currentColor"
@@ -38,6 +39,6 @@
 				/></svg
 			>
 			Ver Catalogo
-		</button>
+		</a>
 	</div>
 </div>
